@@ -1,0 +1,14 @@
+{
+  "name": "sports-tournament-management-system",
+  "version": "1.0.0",
+  "description": "Sports Tournament Management System - Node.js backend (REST API + SQLite) with HTML/CSS/JS frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "test": "node --disable-warning=ExperimentalWarning test.js"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "license": "MIT"
+}
